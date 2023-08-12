@@ -1,25 +1,8 @@
 ![logo](https://github.com/badhanhitesh/badhanhitesh/blob/main/Github_me.png)
 <h1 align="center">Hi 👋, I'm Hitesh Badhan</h1>
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.container {
-  text-align: center;
-  padding: 20px;
-}
-</style>
-</head>
-<body>
-
-<div class="container">
-  <h3>🔭 A Dedicated Individual Currently Pursuing My Bachelor's Degree in Engineering from DIT Pimpri. I Am Passionate About Technology and Constantly Seek Opportunities to Expand My Knowledge and Skills in the Field. I Am Actively Searching for a Job That Aligns with My Interests and Allows Me to Apply My Theoretical Knowledge to Practical Challenges</h3>
+<div style="text-align: center;">
+    <h3>🔭 A Dedicated Individual Currently Pursuing My Bachelor's Degree in Engineering from DIT Pimpri.<br> I Am Passionate About Technology and Constantly Seek Opportunities to Expand My Knowledge and Skills in the Field. <br>I Am Actively Searching for a Job That Aligns with My Interests and Allows Me to Apply My Theoretical Knowledge to Practical Challenges</h3>
 </div>
-
-</body>
-</html>
-
-
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/4592034aa2947db1214599a3079a27a8ae0e41552bdf88736c634e3fef5360c9/68747470733a2f2f7777772e6161676e69612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f33393939382d7765622d646576656c6f706d656e742e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badhanhitesh&label=Profile%20views&color=0e75b6&style=flat" alt="badhanhitesh" /> </p>
