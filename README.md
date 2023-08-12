@@ -1,7 +1,7 @@
 ![logo](https://github.com/badhanhitesh/badhanhitesh/blob/main/Github_me.png)
 <h1 align="center">Hi 👋, I'm Hitesh Badhan</h1>
 <div style="text-align: center;">
-    <h3> ⦿ A Dedicated Individual Currently Pursuing My Bachelor's Degree in Engineering from DIT Pimpri.<br><br><br> ⦿ Passionate About Technology and Constantly Seek Opportunities to Expand My Knowledge and Skills in the Field. <br><br><br> ⦿ Actively Searching for a Job That Aligns with My Interests and Allows Me to Apply My Theoretical Knowledge to Practical Challenges</h3>
+    <h3> ⦿ A Dedicated Individual Currently Pursuing My Bachelor's Degree in Engineering from DIT Pimpri.<br><br> ⦿ Passionate About Technology and Constantly Seek Opportunities to Expand My Knowledge and Skills in the Field. <br><br> ⦿ Actively Searching for a Job That Aligns with My Interests and Allows Me to Apply My Theoretical Knowledge to Practical Challenges</h3>
 </div>
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/4592034aa2947db1214599a3079a27a8ae0e41552bdf88736c634e3fef5360c9/68747470733a2f2f7777772e6161676e69612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f33393939382d7765622d646576656c6f706d656e742e676966">
 
