@@ -1,4 +1,4 @@
-![logo](https://github.com/badhanhitesh/badhanhitesh/blob/main/guthub_pro.png) <!-- Add a vibrant banner image -->
+![logo](https://github.com/badhanhitesh/badhanhitesh/blob/main/Github_new.png) <!-- Add a vibrant banner image -->
 
 <h1 align="center">Hi 👋, I'm Hitesh Badhan</h1>
 <div align="center">
