@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hitesh Badhan</h1>
 <div align="center">
-    <h2>🌟 A Recent Graduate in Electronics and Telecommunication Engineering</h2>
+    <h2>🧑‍💻 A Recent Graduate with a Focus on Practical Tech Solutions 🧑‍💻</h2>
     <p>🔧 Passionate About Technology and Web Development 🌐<br>🔍 Exploring New Technologies and Learning Opportunities 📚<br>🚀 Actively Seeking Opportunities to Contribute to Innovative Projects</p>
 </div>
 
