@@ -10,7 +10,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=badhanhitesh&label=Profile%20views&color=0e75b6&style=flat" alt="badhanhitesh" /> </p>
 
-<p align="center"> <a href="https://twitter.com/hitesh_badhan14" target="blank"><img src="https://img.shields.io/twitter/follow/hitesh_badhan14?logo=twitter&style=for-the-badge" alt="hitesh_badhan14" /></a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hb102" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+
 
 ### 🌱 Currently Learning
 - **Django** & **Next.JS**
