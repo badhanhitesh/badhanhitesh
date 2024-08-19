@@ -1,4 +1,4 @@
-![thoughtworks-gif](https://imarticus.org/blog/wp-content/uploads/2021/12/gew.gif)
+![thoughtworks-gif](http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif)
 
 <h1 align="center">Hi 👋, I'm Hitesh Badhan</h1>
 <div align="center">
