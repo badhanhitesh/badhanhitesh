@@ -1,4 +1,4 @@
-![logo](https://github.com/badhanhitesh/badhanhitesh/blob/main/Github_new.png) <!-- Add a vibrant banner image -->
+![thoughtworks-gif](https://imarticus.org/blog/wp-content/uploads/2021/12/gew.gif)
 
 <h1 align="center">Hi 👋, I'm Hitesh Badhan</h1>
 <div align="center">
