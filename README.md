@@ -1,4 +1,7 @@
-![thoughtworks-gif](http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif)
+<p align="center">
+  <img src="http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" alt="thoughtworks-gif">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Hitesh Badhan</h1>
 <div align="center">
